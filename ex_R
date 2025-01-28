@@ -1,0 +1,5 @@
+load("C:/R/Resultats/EX_R.RData")
+load files ("")
+View(voteRochefort)
+save file("EX_R")
+savehistory("ex_R")
